@@ -92,3 +92,11 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+## Complete the Assignment By adding it here
+### Things I understand
+### Things I don't understand
+1. Pull requests - how to do it effectively and are they the same as merges?
+2. Libraries and Frameworks - the concepts and basics
+### Things I Want to Know
+1. CI (Continuous Integration) - what it is and how it works
+2. CD (Continuous Deployment) - what it is and how it works
